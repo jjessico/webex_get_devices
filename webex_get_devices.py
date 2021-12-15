@@ -16,7 +16,7 @@ def read_credentials():
     """
     parser = ConfigParser(interpolation=None)
     config_section = 'webex'
-    config_path = '..\\restricted\webex.ini'
+    config_path = '..\\..\\restricted\webex.ini'
     try:
         parser.read(config_path)
     except:
