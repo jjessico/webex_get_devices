@@ -1,2 +1,6 @@
 geckodriver.log
 workspace.code-workspace
+.vscode
+log.txt
+.vscode
+seleniumlog.txt
